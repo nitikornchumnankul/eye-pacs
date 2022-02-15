@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import UpdateEye from './conponents/form/UpdateEye';
 
 function App() {
   return (
     <>
-    
-  </>
+    <UpdateEye></UpdateEye>
+    </>
   );
 }
 
